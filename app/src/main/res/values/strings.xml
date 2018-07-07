@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaySDK</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wxpay_entry">WXPayEntryActivity</string>
+</resources>
